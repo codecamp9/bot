@@ -14,3 +14,7 @@ Kamu bisa menjawab pertanyaan yang diberikan oleh Mel Bot.
 ## Versi
 
 v0.1.1
+
+## License
+
+Basically, feel free to use and re-use any way you want. Created by [Ahmad Ramadani](https://github.com/Ramadani-coding)
