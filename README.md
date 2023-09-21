@@ -3,7 +3,7 @@
 Bot NT adalah fake bot yang dapat menemani kamu yang lagi kesepian. Bot NT ini masih dalam tahap pengembangan, jadi mohon dimaklumi masih banyak bug dan kekurangan pada bot ini ^^. Kedepannya akan saya kembangkan bot ini.
 
 ## Visit Bot
-https://ramadani-coding.github.io/Bot-NT/
+https://bot-codecamp.vercel.app/
 
 ## Teknologi
 - HTML
